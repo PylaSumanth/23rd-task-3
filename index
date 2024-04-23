@@ -1,0 +1,29 @@
+<html>
+<head>
+    <style>
+    .name {background-image:linear-gradient(  Orange,blue,green);}
+    .object {background-image:radial-gradient( orange 30%,Blue 35%,Green 25%);}
+    .path{background-image: conic-gradient( orange 0deg, orange 90deg, Blue 90deg, blue 180deg, Green 180deg, green 270deg, yellow 270deg );
+          border-radius:50%;}
+
+    .make-over{background-image:conic-gradient(yellow 0deg,yellow 90deg, aqua 90deg,aqua 180deg,red 180deg,red 270deg,green 270deg);
+               border-radius:50%;}    
+    </style>
+</head>
+<body>
+    <div class="name">
+        <h1>Pyla Srinivasa Rao</h1>
+    </div>
+
+    <div class="object">
+        <h1>Pyla Goraj Srinivasa Sumanth</h1>
+    </div>
+
+    <div class="path">
+        <h1>Pyla Sri Venkata Maha Lakshmi</h1>
+    </div>
+
+    <div class="make-over">
+        <h1>Pyla Aditya Sri Sushanth</h1>
+    </div>
+</body>
